@@ -1,1 +1,1 @@
-# AutoGradingScriptforGradingScope
+# AutoGradingScriptforGradeScope
